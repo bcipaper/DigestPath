@@ -3,3 +3,11 @@ DigestPath: a Benchmark Dataset with Challenge Review for the Pathological Detec
 
 
 
+---
+
+![figure1-LR](digestpath.jpg)
+
+---
+
+
+
